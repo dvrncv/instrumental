@@ -4,5 +4,6 @@ class Main {
         System.out.print("Это добавлено в ветке dev");
         System.out.print("Это добавлено в ветке dev 1");
         System.out.print("Это добавлено в ветке dev 2");
+        System.out.print("Это добавлено в ветке dev 3");
     }
 }
